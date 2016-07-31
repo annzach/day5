@@ -1,0 +1,18 @@
+.card > div {
+  border: 1px solid #000;
+  padding: 7px;
+  margin: 3px;
+}
+
+#template {
+  display: none;
+}
+
+.jumbotron {
+  background-color: #ef5350;
+  color: white;
+}
+
+.top-buffer {
+  margin-top: 20px;
+}
